@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Chameleon Perpetual",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/chameleon-defi-2713/",
+  "VITE_SEO_SITE_URL": "https://perpetual.chameleon.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
